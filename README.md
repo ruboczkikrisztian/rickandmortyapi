@@ -5,4 +5,4 @@ Since I’m still learning API management anyway, I thought I’d do it in the m
 <br>
 This little website only displays the Rick and Morty characters at once, but later I might think further about the project.
 
-Website:https://rickandmortycharactersapi.netlify.app/
+
