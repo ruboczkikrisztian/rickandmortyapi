@@ -19,7 +19,6 @@ const fetchCharacter = () => {
 };
 
 const displayCharacters = (character) => {
-  console.log(character);
   const characterHTMLString = character
     .map(
       (eachcharacter) => `
